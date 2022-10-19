@@ -190,6 +190,9 @@
       </div>
       <div class="col">&copy; 2019-2022 Clever Playing Cards</div>
     </div>
+
+    <p class="mt-5"><a href="https://github.com/plainblack/protospielbingo">View the source code on GitHub.</a></p>
+    
   </div>
 </template>
 

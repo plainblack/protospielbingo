@@ -190,10 +190,24 @@
       </div>
       <div class="col">&copy; 2019-2022 Clever Playing Cards</div>
     </div>
-
-    <p class="mt-5"><a href="https://github.com/plainblack/protospielbingo">View the source code on GitHub.</a></p>
-    
   </div>
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mt-5">
+      <div class="container">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+            </li>
+            <li class="nav-item">
+              <a href="https://github.com/plainblack/protospielbingo/issues" class="nav-link">Report Problem</a> 
+            </li>
+            <li class="nav-item">
+              <a href="https://github.com/plainblack/protospielbingo" class="nav-link">Source Code</a> 
+            </li>
+          </ul>
+      </div>
+    </nav>
+    
 </template>
 
 <script>
